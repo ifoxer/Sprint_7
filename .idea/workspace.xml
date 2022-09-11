@@ -4,49 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4def4d28-d262-4a4d-b465-a548524b5110" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-    </list>
+    <list default="true" id="703b1223-a8bf-492f-83d9-906f4b8caeb8" name="Changes" comment="allure report" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <excluded-from-favorite>
-      <branch-storage>
-        <map>
-          <entry type="REMOTE">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </excluded-from-favorite>
-    <favorite-branches>
-      <branch-storage>
-        <map>
-          <entry type="REMOTE">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="origin/develop" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2EcJCiCzIWPVF4t9IundEtMBABE" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E23kPoSH5QNeUmFrFdQeZg9c1w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -54,29 +36,95 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lis2l/IdeaProjects/Sprint_3&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ListOrdersTest.viewListOrdersStatusCode200">
+    <configuration name="AddCourierTest.addNewCourierStatusCode201" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AddCourierTest" />
+      <option name="METHOD_NAME" value="addNewCourierStatusCode201" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListOrdersTest.viewListOrdersStatusCode200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListOrdersTest" />
+      <option name="METHOD_NAME" value="viewListOrdersStatusCode200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginCourierTest.loginCourierIncorrectLoginAndPasswordResponse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginCourierTest" />
+      <option name="METHOD_NAME" value="loginCourierIncorrectLoginAndPasswordResponse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginCourierTest.loginCourierIncorrectPasswordStatusCode404" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginCourierTest" />
+      <option name="METHOD_NAME" value="loginCourierIncorrectPasswordStatusCode404" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTest.addNewOrderStatusCode201" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderTest" />
+      <option name="METHOD_NAME" value="addNewOrderStatusCode201" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ListOrdersTest.viewListOrdersStatusCode200" />
+        <item itemvalue="JUnit.OrderTest.addNewOrderStatusCode201" />
+        <item itemvalue="JUnit.AddCourierTest.addNewCourierStatusCode201" />
+        <item itemvalue="JUnit.LoginCourierTest.loginCourierIncorrectLoginAndPasswordResponse" />
+        <item itemvalue="JUnit.LoginCourierTest.loginCourierIncorrectPasswordStatusCode404" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4def4d28-d262-4a4d-b465-a548524b5110" name="Changes" comment="" />
-      <created>1662888817594</created>
+      <changelist id="703b1223-a8bf-492f-83d9-906f4b8caeb8" name="Changes" comment="" />
+      <created>1661779996064</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1662888817594</updated>
+      <updated>1661779996064</updated>
     </task>
-    <task id="LOCAL-00001" summary="first commit">
-      <created>1662889054169</created>
+    <task id="LOCAL-00001" summary="allure report">
+      <created>1662292931066</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1662889054169</updated>
+      <updated>1662292931066</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -84,6 +132,11 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="341d268d-12bf-4be1-a30e-340d506219c5">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -93,7 +146,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="allure report" />
+    <option name="LAST_COMMIT_MESSAGE" value="allure report" />
   </component>
 </project>
